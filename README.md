@@ -1,4 +1,4 @@
-# login
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,23 +41,3 @@
 </div>
 </body>
 </html>
-
-*{
-    text-align: center;
-    color: black;
-    background-color: beige;
-}
-#content{
-height: 200px;
-width: 200px;
-border:2px solid beige;
-background-color: aqua;
-}
-#class{
-    text-align: center;
-    padding-right: 100px;
-    display:flex;
-    height:200px;
-    align-items:center;
-    justify-content: center;
-}
